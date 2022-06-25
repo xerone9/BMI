@@ -1,7 +1,7 @@
 # BMI-App
  Kotlin (Android Studio)
  
- A normal body mass index app. But instead of just showing the BMI score and Fitness level. it'll also tells you how many weight need to gain/lose to become fit
+ A normal body mass index app. But instead of just showing the BMI score and Fitness level. it'll also tells you how much weight is needed to gain or lose to become fit
  
  **Working**
 
